@@ -4,18 +4,31 @@ Visão Geral
 O projeto é uma aplicação web construída utilizando o framework Laravel. Ele inclui funcionalidades de autenticação, gerenciamento de usuários, um dashboard, APIs para interação com usuários e sócios, entre outros recursos.
 
 Funcionalidades Principais
+
 Autenticação
+
 Login: Rota para autenticar usuários existentes.
+
 Registro: Rota para criar novas contas de usuário.
+
 Recuperação de Senha: Rota para redefinir senhas esquecidas.
+
 Verificação de E-mail: Rota para confirmar e verificar endereços de e-mail.
+
 Gerenciamento de Sócios
+
 Listagem de Sócios: Rota para exibir uma lista de sócios.
+
 Criação de Sócios: Rota para criar novos registros de sócios.
+
 Detalhes do Sócio: Rota para visualizar detalhes específicos de um sócio.
+
 Atualização de Sócio: Rota para editar informações de um sócio.
+
 Exclusão de Sócio: Rota para remover um registro de sócio.
+
 Dashboard
+
 Página de Dashboard: Exibe um painel de controle com informações relevantes para os usuários autenticados.
 
 user - usuario@email.com
